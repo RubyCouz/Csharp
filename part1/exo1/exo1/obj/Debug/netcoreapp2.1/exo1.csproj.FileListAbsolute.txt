@@ -1,0 +1,11 @@
+C:\Users\Aude-Cédric\Documents\Couz\C#\part1\exo1\exo1\bin\Debug\netcoreapp2.1\exo1.deps.json
+C:\Users\Aude-Cédric\Documents\Couz\C#\part1\exo1\exo1\bin\Debug\netcoreapp2.1\exo1.runtimeconfig.json
+C:\Users\Aude-Cédric\Documents\Couz\C#\part1\exo1\exo1\bin\Debug\netcoreapp2.1\exo1.runtimeconfig.dev.json
+C:\Users\Aude-Cédric\Documents\Couz\C#\part1\exo1\exo1\bin\Debug\netcoreapp2.1\exo1.dll
+C:\Users\Aude-Cédric\Documents\Couz\C#\part1\exo1\exo1\bin\Debug\netcoreapp2.1\exo1.pdb
+C:\Users\Aude-Cédric\Documents\Couz\C#\part1\exo1\exo1\obj\Debug\netcoreapp2.1\exo1.csprojAssemblyReference.cache
+C:\Users\Aude-Cédric\Documents\Couz\C#\part1\exo1\exo1\obj\Debug\netcoreapp2.1\exo1.csproj.CoreCompileInputs.cache
+C:\Users\Aude-Cédric\Documents\Couz\C#\part1\exo1\exo1\obj\Debug\netcoreapp2.1\exo1.AssemblyInfoInputs.cache
+C:\Users\Aude-Cédric\Documents\Couz\C#\part1\exo1\exo1\obj\Debug\netcoreapp2.1\exo1.AssemblyInfo.cs
+C:\Users\Aude-Cédric\Documents\Couz\C#\part1\exo1\exo1\obj\Debug\netcoreapp2.1\exo1.dll
+C:\Users\Aude-Cédric\Documents\Couz\C#\part1\exo1\exo1\obj\Debug\netcoreapp2.1\exo1.pdb

@@ -1,0 +1,10 @@
+C:\Users\Aude-Cédric\Documents\Couz\C#\part1\exo4\exo4\exo4\bin\Debug\netcoreapp2.1\exo4.deps.json
+C:\Users\Aude-Cédric\Documents\Couz\C#\part1\exo4\exo4\exo4\bin\Debug\netcoreapp2.1\exo4.runtimeconfig.json
+C:\Users\Aude-Cédric\Documents\Couz\C#\part1\exo4\exo4\exo4\bin\Debug\netcoreapp2.1\exo4.runtimeconfig.dev.json
+C:\Users\Aude-Cédric\Documents\Couz\C#\part1\exo4\exo4\exo4\bin\Debug\netcoreapp2.1\exo4.dll
+C:\Users\Aude-Cédric\Documents\Couz\C#\part1\exo4\exo4\exo4\bin\Debug\netcoreapp2.1\exo4.pdb
+C:\Users\Aude-Cédric\Documents\Couz\C#\part1\exo4\exo4\exo4\obj\Debug\netcoreapp2.1\exo4.csproj.CoreCompileInputs.cache
+C:\Users\Aude-Cédric\Documents\Couz\C#\part1\exo4\exo4\exo4\obj\Debug\netcoreapp2.1\exo4.AssemblyInfoInputs.cache
+C:\Users\Aude-Cédric\Documents\Couz\C#\part1\exo4\exo4\exo4\obj\Debug\netcoreapp2.1\exo4.AssemblyInfo.cs
+C:\Users\Aude-Cédric\Documents\Couz\C#\part1\exo4\exo4\exo4\obj\Debug\netcoreapp2.1\exo4.dll
+C:\Users\Aude-Cédric\Documents\Couz\C#\part1\exo4\exo4\exo4\obj\Debug\netcoreapp2.1\exo4.pdb

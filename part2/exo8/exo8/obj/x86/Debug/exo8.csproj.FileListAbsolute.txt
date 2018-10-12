@@ -1,0 +1,6 @@
+/home/cedric/Csharp/part2/exo8/exo8/bin/Debug/exo8.exe
+/home/cedric/Csharp/part2/exo8/exo8/bin/Debug/exo8.pdb
+/home/cedric/Csharp/part2/exo8/exo8/obj/x86/Debug/exo8.csprojAssemblyReference.cache
+/home/cedric/Csharp/part2/exo8/exo8/obj/x86/Debug/exo8.csproj.CoreCompileInputs.cache
+/home/cedric/Csharp/part2/exo8/exo8/obj/x86/Debug/exo8.exe
+/home/cedric/Csharp/part2/exo8/exo8/obj/x86/Debug/exo8.pdb

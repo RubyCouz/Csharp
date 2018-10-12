@@ -1,0 +1,6 @@
+/home/cedric/Csharp/part2/exo5/exo5/bin/Debug/exo5.exe
+/home/cedric/Csharp/part2/exo5/exo5/bin/Debug/exo5.pdb
+/home/cedric/Csharp/part2/exo5/exo5/obj/x86/Debug/exo5.csprojAssemblyReference.cache
+/home/cedric/Csharp/part2/exo5/exo5/obj/x86/Debug/exo5.csproj.CoreCompileInputs.cache
+/home/cedric/Csharp/part2/exo5/exo5/obj/x86/Debug/exo5.exe
+/home/cedric/Csharp/part2/exo5/exo5/obj/x86/Debug/exo5.pdb

@@ -1,0 +1,5 @@
+/home/cedric/Csharp/part2/exo4/exo4/bin/Debug/exo4.exe
+/home/cedric/Csharp/part2/exo4/exo4/bin/Debug/exo4.pdb
+/home/cedric/Csharp/part2/exo4/exo4/obj/x86/Debug/exo4.csproj.CoreCompileInputs.cache
+/home/cedric/Csharp/part2/exo4/exo4/obj/x86/Debug/exo4.exe
+/home/cedric/Csharp/part2/exo4/exo4/obj/x86/Debug/exo4.pdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F6FE4B62-7575-4E10-A898-8F8D08594611}|Default">
+  <MonoDevelop.Ide.ItemProperties.exo4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="exo4/Program.cs">
+    <Files>
+      <File FileName="exo4/Program.cs" Line="2" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

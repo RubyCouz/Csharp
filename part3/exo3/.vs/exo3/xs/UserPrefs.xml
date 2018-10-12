@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C76DC62D-B62F-4EB0-A24F-F05EE6B654E0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="exo3/Program.cs">
+    <Files>
+      <File FileName="exo3/Program.cs" Line="11" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.exo3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

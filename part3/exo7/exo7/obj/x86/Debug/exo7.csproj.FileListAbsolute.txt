@@ -1,0 +1,6 @@
+/home/cedric/Documents/Csharp/part3/exo7/exo7/bin/Debug/exo7.exe
+/home/cedric/Documents/Csharp/part3/exo7/exo7/bin/Debug/exo7.pdb
+/home/cedric/Documents/Csharp/part3/exo7/exo7/obj/x86/Debug/exo7.csprojAssemblyReference.cache
+/home/cedric/Documents/Csharp/part3/exo7/exo7/obj/x86/Debug/exo7.csproj.CoreCompileInputs.cache
+/home/cedric/Documents/Csharp/part3/exo7/exo7/obj/x86/Debug/exo7.exe
+/home/cedric/Documents/Csharp/part3/exo7/exo7/obj/x86/Debug/exo7.pdb
